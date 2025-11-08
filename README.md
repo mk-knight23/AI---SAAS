@@ -38,15 +38,3 @@ Live : https://mk-knight23.github.io/N8n_Automations
 12 https://github.com/mk-knight23/Make_Automations
 Live : https://mk-knight23.github.io/Make_Automations
 
-### Porfolio Repos 
-
-1 : https://github.com/mk-knight23/Portfolio-Repos
-Live : https://mk-knight23.github.io/Portfolio-Repos
-
-2 : https://github.com/mk-knight23/mk-portfolio
-Live : https://mk-knight23.github.io/mk-portfolio
-
-3 : https://github.com/mk-knight23/mktech
-Live : https://mk-knight23.github.io/mktech
-
-
