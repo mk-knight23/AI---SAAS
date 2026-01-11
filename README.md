@@ -27,6 +27,7 @@ API_Providers : https://github.com/mk-knight23/API_Providers
 
 WebsiteChatGpt : https://github.com/mk-knight23/WebsiteChatGpt
 
+nodebase : https://github.com/mk-knight23/nodebase
 games-apps-collection : https://github.com/mk-knight23/games-apps-collection
 
 hierarchical-rag-beps : https://github.com/mk-knight23/hierarchical-rag-beps
