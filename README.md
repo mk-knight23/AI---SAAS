@@ -1,7 +1,7 @@
 # AI---SAAS
 5 AI SAAS Products Made By Kazi Musharraf
 
-Vibe : https://github.com/mk-knight23/vibe
+Vibe : https://github.com/mk-knight23/VIBE-CLI
 Live : https://vibe-cli.vercel.app
 
 Vibe-Builder : https://github.com/mk-knight23/vibe-main
